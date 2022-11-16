@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758025844737",
+    "project_id": "alrudo",
+    "storage_bucket": "alrudo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758025844737:android:0cbaa8de5038e7f908a800",
+        "android_client_info": {
+          "package_name": "com.alrudo.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758025844737-eio2pn99u4smfj9htg4p6qi8g9eoell5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMZWZc9xlGB5-LhL3YiG4-s-WPVka7bgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758025844737-eio2pn99u4smfj9htg4p6qi8g9eoell5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

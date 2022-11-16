@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW (Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="23.5242mm" height="5.588mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 1823.19 433.08"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+    <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="586.86" y1="83.2" x2="752.92" y2="273.63">
+     <stop offset="0" stop-opacity="1" stop-color="#FA6555"/>
+     <stop offset="0.45098" stop-opacity="1" stop-color="#FB8B3D"/>
+     <stop offset="1" stop-opacity="1" stop-color="#F94F62"/>
+    </linearGradient>
+    <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="691.69" y1="305.78" x2="694.18" y2="145.22">
+     <stop offset="0" stop-opacity="1" stop-color="#FA6555"/>
+     <stop offset="0.45098" stop-opacity="1" stop-color="#FB8B3D"/>
+     <stop offset="1" stop-opacity="1" stop-color="#F94F62"/>
+    </linearGradient>
+    <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="497.43" y1="327.81" x2="564.04" y2="272.02">
+     <stop offset="0" stop-opacity="1" stop-color="#FA6555"/>
+     <stop offset="0.45098" stop-opacity="1" stop-color="#FB8B3D"/>
+     <stop offset="1" stop-opacity="1" stop-color="#F94F62"/>
+    </linearGradient>
+    <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="533.03" y1="343.65" x2="564.16" y2="317.57">
+     <stop offset="0" stop-opacity="1" stop-color="#FA6555"/>
+     <stop offset="0.45098" stop-opacity="1" stop-color="#FB8B3D"/>
+     <stop offset="1" stop-opacity="1" stop-color="#F94F62"/>
+    </linearGradient>
+    <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="485.31" y1="289.36" x2="516.44" y2="263.28">
+     <stop offset="0" stop-opacity="1" stop-color="#FA6555"/>
+     <stop offset="0.45098" stop-opacity="1" stop-color="#FB8B3D"/>
+     <stop offset="1" stop-opacity="1" stop-color="#F94F62"/>
+    </linearGradient>
+    <clipPath id="id5">
+     <rect x="775.81" y="169.01" width="559.93" height="130.17"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect fill="#EBECEC" x="-0.02" width="1823.18" height="433.08"/>
+  <g id="_2674614790288">
+   <path fill="url(#id0)" d="M735.46 72.56l-224.59 76.83c-17.62,8.48 -33.19,33.02 -10.9,62.33 2.45,3.22 5.63,5.82 9.26,7.6l56.79 27.71c14.17,6.91 24.51,19.77 28.2,35.09l11.03 45.7c1.29,5.36 4.08,10.25 8.03,14.09 26.65,25.89 54.97,29.47 75.37,-2.99l97.79 -209.62c11.39,-34.93 -4.02,-58.48 -35.29,-58.48 -4.86,0 -10.11,0.57 -15.69,1.75zm-85.32 165.24c-1.38,-1.35 -2.36,-3.05 -2.81,-4.93l-3.86 -15.99c-1.29,-5.36 -4.91,-9.87 -9.87,-12.28l-19.87 -9.69c-1.27,-0.62 -2.38,-1.53 -3.24,-2.66 -7.8,-10.26 -2.35,-18.84 3.81,-21.81l78.58 -26.88c14.53,-3.08 22.44,5.72 17.84,19.85l-34.22 73.34c-3.55,5.65 -7.79,8.18 -12.3,8.18 -4.56,0 -9.39,-2.57 -14.07,-7.13z"/>
+   <path fill="url(#id1)" d="M710.69 149.64c1.7,3.51 1.84,8.22 0.04,13.76l-34.22 73.34c-7.14,11.35 -17.05,10.11 -26.37,1.05 -1.38,-1.35 -2.36,-3.05 -2.81,-4.93l-1.45 -6.01c-12.29,15.98 -25.17,33.44 -38.63,52.54 0,0 -5.29,8.94 -8.21,22.69l6.2 25.72c1.29,5.36 4.08,10.25 8.03,14.09 26.65,25.89 54.97,29.47 75.37,-2.99l97.79 -209.62c6.37,-19.54 4.34,-35.49 -4.15,-45.78 -18.41,13.8 -42.37,34.69 -71.6,66.14z"/>
+   <path fill="url(#id2)" d="M502.02 323.28l74.44 -42.2c-4.76,-18.48 -19.17,-22.87 -19.17,-22.87l-55.27 65.07z"/>
+   <path fill="url(#id3)" d="M535.17 341.52l34.8 -19.72c-2.23,-8.63 -8.96,-10.7 -8.96,-10.7l-25.84 30.41z"/>
+   <path fill="url(#id4)" d="M487.44 287.24l34.8 -19.72c-2.22,-8.63 -8.96,-10.69 -8.96,-10.69l-25.84 30.41z"/>
+   <g clip-path="url(#id5)">
+    <image x="775.81" y="168.99" width="560.08" height="130.19" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAJCAIAAAFAizLIAAAACXBIWXMA
+ABLqAAAU6gESRbNtAAADLUlEQVR4nGN58/ZtXGLNovktDGDAUlk9QU1VrrN77sbV25l5eFmmTF8S
+EeYJlQSyunrmlZUkgThAnc1ts67fuHfvwVMBPl5ZafHZM+vv3n0sKSXC8uTpMw4OdgYk4OaduWvr
+dJA+R5vQHXuX8/NzQyQsTXwZmNkamqadOnON5fiZTUFhRetW9QElzG2il62ctnjp5k+fvmzbNAVk
+X1xSze1LF4+f2RwVV7FsUcfxExdu3Xr4/PmbivLkmXPWBPk7R8ZVfPn48cSxFV29C86evbZyWRfL
+8+evbl+6xMDw3ycwj4+XC2jwrDnr5s9psrSKzM+PvnrlzoIZC46f2WJhEXbt+j0WZqali9qc3dNB
+ttXUT25pzAW53Stz17bpDNhAbEL14gWt0OAB4n3b9++0MXZ3tfr3529Nw5Tfv34LC/OXFSfV1U9p
+aswpq+j78evPn79/f/z46R9SWFoYx7Jk6eaFy/rjI/PcXTcC9e/Zd3L/zjkhkaVlxQy7956wtDJU
+U1cI8HXMLex0tAkB+tzCOpplav/MqSALGWGu+M/Jyc7Dxf737z/GX99+fP8lJMjHycUJdyQrOxuL
+lpHx3FmNly7f2rjpgL6+2o+fP4ESy5d0WttExSaFBQY4RsSUL1m6zdBAbcaUWkvLsOzceFAYABVt
+3HKgo6GXkYn94NGVrKzMQBFg6L968W7PrllYgwQXcHJLFRcXXr64A1MKFHIfPnzubOwPjgpZu253
+Zk7znJkNyCos7GKYvn8GetnN1+30uet///zdsWUaKPXYxOhoq06dUuXskfbn4xs+cenPr1/9//eb
+QVwYKJuUWnf9/HkuEclvHz4w/PnR2FEJsik+uYaBkVldXdHXx27zms2Llm6Ji/ZBtkxNT3/B3CYg
+wzsgFy74//9/BlDaWQu0Zs3GOdLS4kBuTFzln3//du85AbSme2KjjbURUDCvqLOhupdl8tSlrx7e
+b+yokJeTAmapl6/eT++f6WBrjGwTIywKg/wc50yb7+GT+ePHH8afn/187ZydLZcsWh8akKaur3ft
+5j2m758UNLVdXSymKamUFjQoaWk/fvLi98c3+aVZAOb5Zh/BujT/AAAAAElFTkSuQmCC"/>
+   </g>
+  </g>
+ </g>
+</svg>
